@@ -20,7 +20,7 @@ public class GatewayApplication {
 
 	//configure routes using RouteLocatorBuilder and RouteLocator
 
-	//@Bean
+	@Bean
 	public RouteLocator getRouteDefinitionLocator(RouteLocatorBuilder builder) {
 
 		return builder.routes()
