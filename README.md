@@ -17,7 +17,7 @@ Ceci est le resultat de l'Activité Pratique 3 du cours de J2EE.
 
 - **URL** : http://localhost:8761
 
-<img width="1680" alt="Screenshot 2023-11-29 at 11 58 52" src="https://github.com/DaddaAdam/Ecom-J2EE-Microservices/assets/77986052/fb742519-1d5f-433a-ba30-be856cbf23a1">
+<img width="1680" alt="Screenshot 2023-11-29 at 11 59 03" src="https://github.com/DaddaAdam/Ecom-J2EE-Microservices/assets/77986052/16ac1e6e-fde2-499a-8cc4-bbd920f7d329">
 
 ## Liste des customers
 
